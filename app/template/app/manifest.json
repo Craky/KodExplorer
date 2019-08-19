@@ -1,0 +1,7 @@
+{
+  "name": "Desktop ",
+  "short_name": "Desktop",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "fullscreen"
+}
